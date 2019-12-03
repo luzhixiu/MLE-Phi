@@ -3,6 +3,6 @@ This repository includes the methods and data needed to calculate MLE-phi for se
 
 File Descriptions:
 
-Mutation files includes the measured mutation bias for a given codon in the organism, namly Delta M 
+Mutation files includes the measured mutation bias for a given codon in the organism, namly Delta M.
 Selection files includes the measured selection factor for a given codon in the organism, namly Delta Eta.
 
